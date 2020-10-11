@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/melgard/cdk-static-website/issues"
   },
-  "homepage": "https://github.com/melgard/cdk-static-website#readme"
+  "homepage": "https://github.com/melgard/cdk-static-website#readme",
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
 }
